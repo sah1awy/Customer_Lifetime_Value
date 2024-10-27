@@ -1,7 +1,7 @@
 # Predicting Customer Lifetime Value (CLV)
 
 ## Installation
-- Python 3.7.3
+- Python 3.10
 - Data: [Online Retail II Data Set, UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 - Libraries: pandas, NumPy
 
